@@ -46,10 +46,11 @@ Below are the snapshot of technologies and fields I'm passionate about:
 ![IBM Quantum](https://img.shields.io/badge/-IBM%20Quantum-006DAD?style=flat-square&logo=ibm&logoColor=white)
 
 ### Secure Systems
-![SSL](https://img.shields.io/badge/-SSL%2FTLS-CC0000?style=flat-square&logo=cloudflare&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-008C4F?style=flat-square&logo=security&logoColor=white)
-
-
+![Security and Risk Management](https://img.shields.io/badge/Security%20and%20Risk%20Management-4C8BF5?style=for-the-badge&logo=shield&logoColor=white)
+![Asset Security](https://img.shields.io/badge/Asset%20Security-FFB6C1?style=for-the-badge&logo=lock&logoColor=white)
+![Security Architecture and Engineering](https://img.shields.io/badge/Security%20Architecture%20and%20Engineering-28A745?style=for-the-badge&logo=building&logoColor=white)
+![Communication and Network Security](https://img.shields.io/badge/Communication%20and%20Network%20Security-00A4FF?style=for-the-badge&logo=wifisignal&logoColor=white)
+![Identity and Access Management](https://img.shields.io/badge/Identity%20and%20Access%20Management-FF9900?style=for-the-badge&logo=key&logoColor=white)
 
 ## Featured Projects
 
@@ -63,5 +64,3 @@ Course Buddy is a web-based platform that integrates a machine learning model to
 
  - ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
 (https://www.linkedin.com/debella-ethicha)
-
-
