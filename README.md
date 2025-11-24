@@ -4,13 +4,12 @@
 
 ## About Myself
 
-I'm an aspiring Information Systems and IT Security Professional, keen on detail and ready to apply technical expertise and problem-solving skills to drive innovation and excellence in Networks, Database, Cloud Services, IT Operations, Machine Learning, Quantum Science, and Secure Systems.
+I am an aspiring Information Systems and IT Security Professional, keen on detail and ready to apply technical expertise and problem-solving skills to drive innovation and excellence in Networks, Database, Cloud Services, IT Operations, Machine Learning, Quantum Science, and Secure Systems.
 
-- 🌱 Currently learning: Agentic AI, Cloud Security
-- 🔭 Working on: Autonomous Agents
-- 🌍 Languages: Python, C++, C#, Java, Amharic, English, Oromo
-- 📫 How to reach me: Will post!
-- ⚡ Fun fact: I'm am a writer.
+ Currently Learning: Agentic AI, Cloud Security
+ Working on: Autonomous Agents
+ Languages: Python, C++, C#, Java, Amharic, English, Oromo
+ How to reach me: Will post!
 
 ## My Tech Stack
 
@@ -59,14 +58,10 @@ Below are the snapshot of technologies and fields I'm passionate about:
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
-Course Buddy is a is a web-based platform that integrates a machine learning model to provide intelligent academic and administrative support for students. It uses natural language processing and AI techniques to enhance user interaction and streamline student services built with Python. This project demonstrates my ability to integrate machine learning and AI into web platforms to enhance user interaction and streamline services. [here](project_1_repository_link).
+Course Buddy is a web-based platform that integrates a machine learning model to provide intelligent academic and administrative support for students. It uses natural language processing and AI techniques to enhance user interaction and streamline student services built with Python. This project demonstrates my ability to integrate machine learning and AI into web platforms to enhance user interaction and streamline services. [here](project_1_repository_link).
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+## Get in Touch
 
-## Get in Touch 📬
-
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+(linkedin.com/debella-ethicha)
 
 
