@@ -6,17 +6,16 @@
 
 I am an aspiring Information Systems and IT Security Professional, keen on detail and ready to apply technical expertise and problem-solving skills to drive innovation and excellence in Networks, Database, Cloud Services, IT Operations, Machine Learning, Quantum Science, and Secure Systems.
 
- Currently Learning: Agentic AI, Cloud Security
- Working on: Autonomous Agents
- Languages: Python, C++, C#, Java, Amharic, English, Oromo
- How to reach me: Will post!
+ - Currently Learning: Agentic AI, Cloud Security
+ - Working on: Autonomous Agents
+ - Languages: Python, C++, C#, Java, Amharic, English, Oromo
+ - How to reach me: Will post!
 
 ## My Tech Stack
 
 Below are the snapshot of technologies and fields I'm passionate about:
 
 ### Programming Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
