@@ -22,6 +22,11 @@ Below are the snapshot of technologies and fields I'm passionate about:
 ![Communication and Network Security](https://img.shields.io/badge/Communication%20and%20Network%20Security-1E90FF?style=flat-square&logo=wifisignal&logoColor=white)
 ![Identity and Access Management](https://img.shields.io/badge/Identity%20and%20Access%20Management-FFA500?style=flat-square&logo=key&logoColor=white)
 
+### Operating Systems
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C8B?style=flat-square&logo=kali&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+
 ### Programming / Scripting
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=GNU&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
