@@ -22,7 +22,8 @@ Below are the snapshot of technologies and fields I'm passionate about:
 ![Communication and Network Security](https://img.shields.io/badge/Communication%20and%20Network%20Security-1E90FF?style=for-the-badge&logo=wifisignal&logoColor=white)
 ![Identity and Access Management](https://img.shields.io/badge/Identity%20and%20Access%20Management-FFA500?style=for-the-badge&logo=key&logoColor=white)
 
-### Programming Languages
+### Programming / Scripting
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
