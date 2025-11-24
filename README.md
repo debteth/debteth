@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! I'm Deb!
+# Welcome to my profile! I'm Deb!
 
 ![Banner Image](your_banner_image_url_here)
 
