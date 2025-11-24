@@ -64,5 +64,5 @@ Course Buddy is a web-based platform that integrates a machine learning model to
 
 ## Get in Touch
 
- - ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
+ - ![LinkedIn](https://img.shields.io/badge/-in-0077B5?style=flat-square&logo=linkedin&logoColor=white)
  (https://www.linkedin.com/debella-ethicha)
