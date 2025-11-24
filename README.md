@@ -23,7 +23,7 @@ Below are the snapshot of technologies and fields I'm passionate about:
 ![Identity and Access Management](https://img.shields.io/badge/Identity%20and%20Access%20Management-FFA500?style=flat-square&logo=key&logoColor=white)
 
 ### Operating Systems
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C8B?style=flat-square&logo=kali&logoColor=white)
+![Kali Dragon](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Kali_logo_2.0.png/500px-Kali_logo_2.0.png)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
