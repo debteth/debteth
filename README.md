@@ -1,6 +1,6 @@
 # Welcome to my profile! I'm Deb!
 
-<img src="https://github.com/debteth/debteth/blob/main/LinkedIn_Cover.png" height="100" width="50%" alt="Banner Image">
+<img src="https://github.com/debteth/debteth/blob/main/LinkedIn_Cover.png" height="100" width="100%" alt="Banner Image">
 
 ## About Myself
 
@@ -8,7 +8,6 @@ Highly organized and results-driven Information Systems Security Professional wi
 over 2 years of experience managing security infrastructures in a bank.
 
  - Currently Learning: Agentic AI, Cloud Security
- - Languages: Python, C++, C#, Java, Amharic, English, Oromo
  - How to reach me: Will post!
 
 
