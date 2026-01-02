@@ -43,10 +43,6 @@ Below are the snapshot of technologies and fields I'm passionate about:
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-### Machine Learning
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
 ### Quantum Science
 ![IBM Quantum](https://img.shields.io/badge/-IBM%20Quantum-006DAD?style=flat-square&logo=ibm&logoColor=white)
 
