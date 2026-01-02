@@ -1,6 +1,6 @@
 # Welcome to my profile! I'm Deb!
 
-![Banner Image](https://drive.google.com/file/d/1fr2DMteGd74Hut2inF2FgESVrNuP4Ky-/view?usp=drive_link)
+![Banner Image](https://github.com/debteth/debteth/blob/main/LinkedIn_Cover.png))
 
 
 ## About Myself
@@ -54,12 +54,7 @@ Below are the snapshot of technologies and fields I'm passionate about:
 
 
 ## Featured Projects
-
 ### Under development!
-
-![Project 1 Screenshot](project_1_screenshot_url)
-
- [here](project_1_repository_link).
 
 
 ## Get in Touch
