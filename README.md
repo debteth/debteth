@@ -4,10 +4,10 @@
 
 ## About Myself
 
-I am an aspiring Information Systems and IT Security Professional, keen on detail and ready to apply technical expertise and problem-solving skills to drive innovation and excellence in Networks, Database, Cloud Services, IT Operations, Machine Learning, Quantum Science, and Secure Systems.
+Highly organized and results-driven Information Systems Security Professional with
+over 2 years of experience managing security infrastructures in a bank.
 
  - Currently Learning: Agentic AI, Cloud Security
- - Working on: Autonomous Agents
  - Languages: Python, C++, C#, Java, Amharic, English, Oromo
  - How to reach me: Will post!
 
@@ -61,11 +61,11 @@ Below are the snapshot of technologies and fields I'm passionate about:
 
 ## Featured Projects
 
-### Course Buddy
+### Under development!
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
-Course Buddy is a web-based platform that integrates a machine learning model to provide intelligent academic and administrative support for students. It uses natural language processing and AI techniques to enhance user interaction and streamline student services built with Python. This project demonstrates my ability to integrate machine learning and AI into web platforms to enhance user interaction and streamline services. [here](project_1_repository_link).
+ [here](project_1_repository_link).
 
 ## Get in Touch
 
