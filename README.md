@@ -1,6 +1,6 @@
 # Welcome to my profile! I'm Deb!
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](https://drive.google.com/file/d/1fr2DMteGd74Hut2inF2FgESVrNuP4Ky-/view?usp=drive_link)
 
 ## About Myself
 
