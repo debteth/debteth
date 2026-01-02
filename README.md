@@ -1,7 +1,6 @@
 # Welcome to my profile! I'm Deb!
 
-![Banner Image](<img src="https://github.com/debteth/debteth/blob/main/LinkedIn_Cover.png" width="5%">)
-
+<img src="https://github.com/debteth/debteth/blob/main/LinkedIn_Cover.png" width="100%" alt="Banner Image">
 
 ## About Myself
 
