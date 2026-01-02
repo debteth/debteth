@@ -1,4 +1,4 @@
-# Welcome to my profile! I'm Deb!
+# Welcome! I'm Deb!
 
 <img src="https://github.com/debteth/debteth/blob/main/LinkedIn_Cover.png" height="170" width="90%" alt="Banner Image">
 
