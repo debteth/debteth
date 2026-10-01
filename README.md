@@ -4,16 +4,13 @@
 
 ## About Myself
 
-Highly organized and results-driven Information Systems Security Professional with
+IT & Security Operations Engineer with
 over 2 years of experience managing security infrastructures in a bank.
 
- - Currently Learning: Agentic AI, Cloud Security
- - How to reach me: Will post!
+ - Currently Learning: Agentic AI and Security, Cloud Security
 
 
-## My Tech Stack
-
-Below are the snapshot of technologies and fields I'm passionate about:
+## Tech Stack
 
 ### Cyber Security
 ![Security and Risk Management](https://img.shields.io/badge/Security%20and%20Risk%20Management-003366?style=flat-square&logo=shield&logoColor=white)
@@ -46,9 +43,6 @@ Below are the snapshot of technologies and fields I'm passionate about:
 ### Machine Learning
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-### Quantum Science
-![IBM Quantum](https://img.shields.io/badge/-IBM%20Quantum-006DAD?style=flat-square&logo=ibm&logoColor=white)
 
 
 ## Featured Projects
